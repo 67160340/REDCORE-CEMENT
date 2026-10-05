@@ -1,0 +1,27 @@
+﻿Module_Data,ID_Code,Date_Ref,Item_Name,Brand_Owner,Customer_Segment,Building_Cargo_Type,Volume_Qty,Revenue_Fee_THB,Fuel_Cost_THB,Gross_Margin,Status_KPI,Remark_GPS
+Sales_Revenue,ORD-2026-001,2026-09-01,ปูนโครงสร้าง (ถุง),SCG,ผู้รับเหมาก่อสร้าง,-,150 Tons,375000,0,22%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-002,2026-09-02,ปูนผง (Bulk),อินทรี,โรงงานแพลนต์ปูน Ready-Mix,-,500 Tons,1100000,0,18%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-003,2026-09-03,ปูนรักษ์โลก (Eco Cement),TPI,โครงการอสังหาริมทรัพย์ (ESG),-,200 Tons,520000,0,25%,In-Progress,Volume Rebate In-Progress
+Sales_Revenue,ORD-2026-004,2026-09-05,ปูนฉาบ (ถุง),SCG,ร้านค้าปลีกวัสดุก่อสร้าง,-,80 Tons,200000,0,20%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-005,2026-09-07,ปูนผง (Bulk),SCG,โรงงานแพลนต์ปูน Ready-Mix,-,650 Tons,1430000,0,19%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-006,2026-09-10,ปูนรักษ์โลก (Eco Cement),อินทรี,ผู้รับเหมาก่อสร้าง,-,120 Tons,312000,0,26%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-007,2026-09-12,ปูนโครงสร้าง (ถุง),TPI,ร้านค้าปลีกวัสดุก่อสร้าง,-,100 Tons,240000,0,21%,In-Progress,Volume Rebate In-Progress
+Sales_Revenue,ORD-2026-008,2026-09-15,ปูนผง (Bulk),TPI,โรงงานแพลนต์ปูน Ready-Mix,-,400 Tons,880000,0,18%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-009,2026-09-18,ปูนรักษ์โลก (Eco Cement),SCG,โครงการอสังหาริมทรัพย์ (ESG),-,300 Tons,780000,0,25%,Achieved,Volume Rebate Achieved
+Sales_Revenue,ORD-2026-010,2026-09-20,ปูนฉาบ (ถุง),อินทรี,ร้านค้าปลีกวัสดุก่อสร้าง,-,150 Tons,375000,0,20%,Achieved,Volume Rebates Achieved
+Fleet_Logistics,TRK-01,2026-09-21,รถเทรลเลอร์พื้นเรียบ,-,-,ปูนถุง,-,0,4500,-,In-Transit,On-Time / Capacity 65% / GPS Active
+Fleet_Logistics,TRK-02,2026-09-21,รถบรรทุกถังแคปซูล,-,-,ปูนผง (Bulk),-,0,6200,-,In-Transit,On-Time / Capacity 80% / GPS Active
+Fleet_Logistics,TRK-03,2026-09-21,รถเทรลเลอร์พื้นเรียบ,-,-,ปูนถุง,-,0,3800,-,Delivered,On-Time / Capacity 65% / GPS Active
+Fleet_Logistics,TRK-04,2026-09-21,รถบรรทุกถังแคปซูล,-,-,ปูนผง (Bulk),-,0,5800,-,Delivered,Delay 15 mins / Capacity 80% / GPS Active
+Fleet_Logistics,TRK-05,2026-09-21,รถเทรลเลอร์พื้นเรียบ,-,-,ปูนถุง,-,0,0,-,Standby,Capacity 65% / GPS Active
+Fleet_Logistics,TRK-06,2026-09-21,รถบรรทุกถังแคปซูล,-,-,ปูนผง (Bulk),-,0,6000,-,In-Transit,On-Time / Capacity 80% / GPS Active
+Fleet_Logistics,TRK-07,2026-09-21,รถเทรลเลอร์พื้นเรียบ,-,-,ปูนถุง,-,0,4100,-,Delivered,On-Time / Capacity 65% / GPS Active
+Fleet_Logistics,TRK-08,2026-09-21,รถบรรทุกถังแคปซูล,-,-,ปูนผง (Bulk),-,0,0,-,Maintenance,Capacity 80% / GPS Inactive
+Fleet_Logistics,TRK-09,2026-09-21,รถเทรลเลอร์พื้นเรียบ,-,-,ปูนถุง,-,0,4300,-,In-Transit,On-Time / Capacity 65% / GPS Active
+Fleet_Logistics,TRK-10,2026-09-21,รถบรรทุกถังแคปซูล,-,-,ปูนผง (Bulk),-,0,5900,-,Delivered,On-Time / Capacity 80% / GPS Active
+Drone_Services,DRN-2026-01,2026-09-22,One-time Service Fee,-,-,บ้านเดี่ยว (ที่อยู่อาศัย),1 Project,15000,0,35%,Completed,ESG Target Met: Yes
+Drone_Services,DRN-2026-02,2026-09-23,Annual Subscription,-,-,นิติบุคคลคอนโด (อาคารสูง),1 Retainer,120000,0,40%,In-Progress,ESG Target Met: Yes
+Drone_Services,DRN-2026-03,2026-09-24,Premium Fee + Cert,-,-,โรงงานอุตสาหกรรม,1 Project,45000,0,38%,Completed,ESG Target Met: Yes
+Drone_Services,DRN-2026-04,2026-09-25,One-time Service Fee,-,-,โครงการหมู่บ้าน (ที่อยู่อาศัย),1 Project,25000,0,35%,Completed,ESG Target Met: Yes
+Drone_Services,DRN-2026-05,2026-09-26,Annual Subscription,-,-,นิติบุคคลอาคารสำนักงาน,1 Retainer,150000,0,40%,In-Progress,ESG Target Met: Yes
+Drone_Services,DRN-2026-06,2026-09-27,Premium Fee + Cert,-,-,คลังสินค้า (อาคารพาณิชย์),1 Project,50000,0,38%,Completed,ESG Target Met: Yes
